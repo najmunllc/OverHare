@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OverHare</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="my_app_api_key">AIzaSyDPLL6yWomQs11NrvQl5ysTbx3iISBm_30</string>
+</resources>
